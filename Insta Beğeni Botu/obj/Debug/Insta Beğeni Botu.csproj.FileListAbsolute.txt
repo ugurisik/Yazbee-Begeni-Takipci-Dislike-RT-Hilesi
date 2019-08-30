@@ -1,0 +1,11 @@
+C:\Users\Penia\documents\visual studio 2012\Projects\Insta Beğeni Botu\Insta Beğeni Botu\bin\Debug\WebDriver.dll
+C:\Users\Penia\documents\visual studio 2012\Projects\Insta Beğeni Botu\Insta Beğeni Botu\bin\Debug\WebDriver.xml
+C:\Users\Penia\documents\visual studio 2012\Projects\Insta Beğeni Botu\Insta Beğeni Botu\obj\Debug\Insta Beğeni Botu.csprojResolveAssemblyReference.cache
+C:\Users\Penia\documents\visual studio 2012\Projects\Insta Beğeni Botu\Insta Beğeni Botu\obj\Debug\Insta_Beğeni_Botu.Form1.resources
+C:\Users\Penia\documents\visual studio 2012\Projects\Insta Beğeni Botu\Insta Beğeni Botu\obj\Debug\Insta Beğeni Botu.csproj.GenerateResource.Cache
+C:\Users\Penia\documents\visual studio 2012\Projects\Insta Beğeni Botu\Insta Beğeni Botu\bin\Debug\Yazbee Beğeni Botu.exe.config
+C:\Users\Penia\documents\visual studio 2012\Projects\Insta Beğeni Botu\Insta Beğeni Botu\bin\Debug\Yazbee Beğeni Botu.exe
+C:\Users\Penia\documents\visual studio 2012\Projects\Insta Beğeni Botu\Insta Beğeni Botu\bin\Debug\Yazbee Beğeni Botu.pdb
+C:\Users\Penia\documents\visual studio 2012\Projects\Insta Beğeni Botu\Insta Beğeni Botu\obj\Debug\Yazbee_Beğeni_Botu.Properties.Resources.resources
+C:\Users\Penia\documents\visual studio 2012\Projects\Insta Beğeni Botu\Insta Beğeni Botu\obj\Debug\Yazbee Beğeni Botu.exe
+C:\Users\Penia\documents\visual studio 2012\Projects\Insta Beğeni Botu\Insta Beğeni Botu\obj\Debug\Yazbee Beğeni Botu.pdb
